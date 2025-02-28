@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Rohan&#39;s Website</title>
+	<link>//localhost:1313/categories/</link>
+	<description>Recent content in Categories on Rohan&#39;s Website</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+    
+        <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Life_in_college</title>
+		<link>//localhost:1313/life_in_college/</link>
+		<pubDate>Wed, 26 Feb 2025 23:06:56 -0800</pubDate>
+		
+		<guid>//localhost:1313/life_in_college/</guid>
+		<description>&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>First post</title>
+		<link>//localhost:1313/about/</link>
+		<pubDate>Mon, 24 Feb 2025 10:20:27 -0800</pubDate>
+		
+		<guid>//localhost:1313/about/</guid>
+		<description>&lt;h1 id=&#34;my-time&#34;&gt;My time&lt;/h1&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>

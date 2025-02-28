@@ -1,0 +1,6 @@
+baseURL = '/'
+relativeURLs = true
+languageCode = 'en-us'
+title = "Rohan's Website"
+
+theme = 'lugo'
