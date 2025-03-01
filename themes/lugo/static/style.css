@@ -1,8 +1,18 @@
 body {
 	font-family: sans-serif ;
-	background: #110000 ;
-	color: #ccc ;
+	background: #232A2E;
+	color: #56635f ;
 }
+
+
+a {
+	color: #7FBBB3;
+}
+
+a:visited {
+	color: #D699B6;
+}
+
 
 main {
 	max-width: 800px ;
