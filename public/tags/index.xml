@@ -1,31 +1,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Rohan&#39;s Website</title>
-	<link>//localhost:1313/tags/</link>
+	<link>https://rdesh.xyz/tags/</link>
 	<description>Recent content in Tags on Rohan&#39;s Website</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
     
-        <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rdesh.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
-		<title>Life_in_college</title>
-		<link>//localhost:1313/life_in_college/</link>
+		<title>Life in college</title>
+		<link>https://rdesh.xyz/life_in_college/</link>
 		<pubDate>Wed, 26 Feb 2025 23:06:56 -0800</pubDate>
 		
-		<guid>//localhost:1313/life_in_college/</guid>
-		<description>&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;
-</description>
-	</item>
-	
-	<item>
-		<title>First post</title>
-		<link>//localhost:1313/about/</link>
-		<pubDate>Mon, 24 Feb 2025 10:20:27 -0800</pubDate>
-		
-		<guid>//localhost:1313/about/</guid>
-		<description>&lt;h1 id=&#34;my-time&#34;&gt;My time&lt;/h1&gt;
+		<guid>https://rdesh.xyz/life_in_college/</guid>
+		<description>&lt;h1 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h1&gt;
+&lt;p&gt;I want to preface this by saying I absolutely love it here.
+Probably nothing else would be different if I went to another college.
+That being said, I&amp;rsquo;ve learned a lot about my time here, and what I truly value.&lt;/p&gt;
+&lt;h1 id=&#34;the-value-of-solitude&#34;&gt;The value of solitude&lt;/h1&gt;
+&lt;p&gt;Some might simply just call this loneliness.
+For some time, it did feel that way for me.
+Not that I didn&amp;rsquo;t have people to see, but it was hard to make any sort of meaningful connection with people.
+I think eventually it came to a point where I was so frustrated of not making any meaningful contact that I sort of became a recluse, for a lack of a better term.&lt;/p&gt;
+&lt;p&gt;However, it did get me thinking a lot.&lt;/p&gt;
+&lt;p&gt;About my future, and what I wanted from it.&lt;/p&gt;
+&lt;p&gt;About how I envisioned my future self and what steps I could take to get there.&lt;/p&gt;
+&lt;p&gt;I do think it was good that I didn&amp;rsquo;t have much external influence from other people.
+I&amp;rsquo;ve always thought of myself as aspiring to be more independent, and maybe that&amp;rsquo;s a weakness.
+But I&amp;rsquo;ve always been stubborn in the sense that I try my hardest to improve my own life independent of other people.&lt;/p&gt;
+&lt;h1 id=&#34;things-i-noticed&#34;&gt;Things I noticed&lt;/h1&gt;
+&lt;p&gt;Lots of people already want to get into a specific field.
+I know myself I&amp;rsquo;ve been looking into healthcare, but I&amp;rsquo;m also interested in research.
+Maybe I can combine the two later.&lt;/p&gt;
+&lt;p&gt;This really isn&amp;rsquo;t a problem, but I&amp;rsquo;ve always been indecisive, even back in high school.
+Most of my friends wanted to be investment bankers, or lawyers, or doctors, and tailored their extracurriculars and activities to achieve that.&lt;/p&gt;
+&lt;p&gt;Meanwhile, I was more-or-less just scrambling trying to do everything that interested me.
+It&amp;rsquo;s weird since I do want to try to get into a med school, but I also have interests in CS and more specifically developing FOSS software to help scientific endeavours.&lt;/p&gt;
+&lt;p&gt;My love for FOSS caused me to set up this blog, and once I can figure out how to get the website working without people having to be on the UCLA vpn, I can do a lot more interesting things.
+Already I have a self-hosted &lt;a href=&#34;https://git.rdesh.xyz/explore/repos&#34;&gt;Gitea&lt;/a&gt; instance, as well as a Radicale instance.
+One of my interests once I get into a research lab here is to figure out how to design publishable, interactive databases for findings and host them on my website and put the code on my own self-hosted instance.&lt;/p&gt;
+&lt;h1 id=&#34;takeaways&#34;&gt;Takeaways&lt;/h1&gt;
+&lt;p&gt;Before I came to UCLA, I thought college would be a lot different than high-school.
+It is, but in a different way - you have a lot more agency and control over what you can do.
+I effectively have free will - which is scary.&lt;/p&gt;
+&lt;p&gt;But at the same time, you can change and truly find yourself with no stigma.&lt;/p&gt;
 </description>
 	</item>
 	
