@@ -10,6 +10,68 @@
 	
 	
 	<item>
+		<title>Building your own website</title>
+		<link>https://rdesh.xyz/building_your_own_website/</link>
+		<pubDate>Fri, 07 Mar 2025 12:47:27 -0800</pubDate>
+		
+		<guid>https://rdesh.xyz/building_your_own_website/</guid>
+		<description>&lt;h2 id=&#34;why&#34;&gt;Why?&lt;/h2&gt;
+&lt;p&gt;Remember when Tiktok shut down and millions of people thought they were about to lose their livelihoods because of the app?
+Easily could have been prevented if they built services that didn&amp;rsquo;t rely on a centralized platform.&lt;/p&gt;
+&lt;p&gt;In general though, we live largely on the internet as serfs or tenants on a company&amp;rsquo;s social media platform.
+While I&amp;rsquo;m not such a zealot as to delete my accounts from them (mainly because everyone uses them,) I do think a lot of problems would be solved if people had their own websites.
+Not just websites, but personal services as well, like a git server. No more DMCA takedown requests (although those could still happen, but probably with less chances.)&lt;/p&gt;
+&lt;p&gt;Right now, I have this website, a self hosted &lt;a href=&#34;https://git.rdesh.xyz&#34;&gt;cgit&lt;/a&gt; instance, and a calibre instance for my own personal library.
+I know that a corporation won&amp;rsquo;t be going after me if I post something they don&amp;rsquo;t like on their platform. I do want to create like a little small community that&amp;rsquo;ll actually check this however.&lt;/p&gt;
+&lt;h3 id=&#34;artistic-freedom&#34;&gt;Artistic Freedom&lt;/h3&gt;
+&lt;p&gt;Another small thing here to note is the artistic freedom you get while managing your own blog or personal website.
+Here, I can easily change the appearance or CSS of my website, and add as much instances of other self-hosted services to my VPS, provided I don&amp;rsquo;t go past the 2gb of RAM limit.
+I can&amp;rsquo;t really do that on any other platform; I&amp;rsquo;m at the mercy to what they allow me to do.&lt;/p&gt;
+&lt;p&gt;That being said, later on I might add on a Mastodon instance to connect with other communities.
+I haven&amp;rsquo;t researched much into the Fediverse, but it does sound like a cool concept that I wish more people would take seriously instead of having accounts on large social media websites controlled by billionaires.&lt;/p&gt;
+&lt;h3 id=&#34;algorithms&#34;&gt;Algorithms&lt;/h3&gt;
+&lt;p&gt;Using big social media websites such as Instagram and TikTok put you at the mercy of their algorithm.
+This can easily put you down a big rabbit hole of content that can change your way of thinking for the worse.
+I&amp;rsquo;ll write an article later on how you can change your mindsets and beliefs and the way you should do them that won&amp;rsquo;t get you down a rabbit hole, but for now just know the the algorithms that the big social media websites use are probably the number-one thing dividing our population at the moment.&lt;/p&gt;
+&lt;h2 id=&#34;how&#34;&gt;How?&lt;/h2&gt;
+&lt;p&gt;Firstly, there are a few things to keep in consideration:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Privacy. Not as much of a concern for me as it is for some other people, but it is something to be wary of.
+I don&amp;rsquo;t end up really doing anything nefarious, I just want the freedom to write and have my own opinions on a platform I like to use.
+If you really do care about this, make sure to not use any services that are in a &lt;a href=&#34;https://en.wikipedia.org/wiki/Five_Eyes&#34;&gt;Five Eyes&lt;/a&gt; country.&lt;/li&gt;
+&lt;li&gt;Ease of use. It would be a good idea to be knowledgeable on how to use a Linux distribution on the server, such as Debian or Ubuntu. Otherwise it&amp;rsquo;s going to be a pain to host your services.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;That being said, you&amp;rsquo;ll want 2 things: a VPS provider, and a domain name.&lt;/p&gt;
+&lt;h3 id=&#34;vps-provider&#34;&gt;VPS provider&lt;/h3&gt;
+&lt;p&gt;I use &lt;a href=&#34;https://racknerdtracker.com/&#34;&gt;RackNerd&lt;/a&gt;.
+They offer super cheap VPS&amp;rsquo;s, sometimes for only a few dollars a month.
+I pay 18 bucks yearly for mine, and it has about 2GB of RAM and 40GB of storage, which is more than fine for my own needs.
+Don&amp;rsquo;t go on their main website: the page I linked to has deals which are extremely good.
+If you want to splurge, you could even go for something that&amp;rsquo;s 50 bucks a year and you&amp;rsquo;ll get 4GB of ram and 105GB of SSD storage.
+Not too bad considering most other VPS providers are 12 bucks a MONTH.&lt;/p&gt;
+&lt;h3 id=&#34;domain-registrar&#34;&gt;Domain registrar&lt;/h3&gt;
+&lt;p&gt;I use &lt;a href=&#34;https://www.namecheap.com/&#34;&gt;Namecheap&lt;/a&gt;, but there are plenty of other options here.
+All will work fine.
+Most domains go for about a dollar a month; Namecheap does have deals where you&amp;rsquo;ll end up paying 2-4 bucks your first year, and then 12 bucks your 2nd. Still pretty affordable for most people.&lt;/p&gt;
+&lt;h3 id=&#34;setup&#34;&gt;Setup&lt;/h3&gt;
+&lt;p&gt;Maybe I&amp;rsquo;ll write a blog post in the future on how I set up my own website, but for most people the &lt;a href=&#34;https://landchad.net/&#34;&gt;LandChad&lt;/a&gt; guide by primarily Luke Smith will work just fine.
+There are a few gripes I have with it though, but if you&amp;rsquo;re a beginner his advice will work.
+He gives tutorials on how to set up HTTPS so people won&amp;rsquo;t be scared trying to visit your website, as well as other tips and tricks.
+The Hugo &lt;a href=&#34;https://github.com/LukeSmithxyz/lugo&#34;&gt;theme&lt;/a&gt; I use is also made by him, with my own modifications to the color scheme.&lt;/p&gt;
+&lt;h3 id=&#34;raw-htmlcss-vs-ssg&#34;&gt;Raw HTML/CSS vs SSG&lt;/h3&gt;
+&lt;p&gt;I would recommend using an SSG (static site generator) like &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; for building your main page.
+There are many themes available for it, and your pages will still be fairly minimalist, work well with mobile devices, and not have unecessary Javascript bloat like React or some framework that&amp;rsquo;ll cause a 300mb download.&lt;/p&gt;
+&lt;p&gt;Bloat&amp;rsquo;s definitely a joke to an extent, but the truth is frameworks like React are useful for only building interactive web apps, not static web pages.
+Some of my projects use React but that&amp;rsquo;s when I have to get data from a user - otherwise just HTML and CSS is fine.&lt;/p&gt;
+&lt;h3 id=&#34;host-your-own-services&#34;&gt;Host your own services&lt;/h3&gt;
+&lt;p&gt;From here, you can end up hosting your own services that you need.
+For example, I have my cgit instance for my git repos, though I might switch to Gitea later just for ease of use.
+I also have a Calibre instance for books.
+In general, it would be a good idea to host as many things as you need to be somewhat independent on the internet within reason - for example, I could set up an email server but using my student one &lt;a href=&#34;mailto:rbdeshpande@ucla.edu&#34;&gt;rbdeshpande@ucla.edu&lt;/a&gt; probably adds more credibility to me.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>Life in college</title>
 		<link>https://rdesh.xyz/life_in_college/</link>
 		<pubDate>Wed, 26 Feb 2025 23:06:56 -0800</pubDate>
