@@ -28,7 +28,7 @@ The history and geopolitics is more of a hobby, but I am interested in getting i
 I'd appreciate any guidance involving this, or once I get into a lab and spend some time there I'll write an article.
 
 ## Currently Reading
-**My Life: A Spoken Autobiography** by *Fidel Castro*
+**Atomic Habits** by James Clear
 
 
 ## Articles
